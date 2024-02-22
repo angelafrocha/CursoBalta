@@ -9,3 +9,7 @@
 - Enumeradores (Enums)
 - Estruturas (Structs)
 - Tipos Nulos (NUllable Types)
+
+### Tipos Primitivos
+- Cada tipo possui uma capacidade(caso exceda, gera erro)
+- A capacidade pré-definida ajuda na otimizção do programa
