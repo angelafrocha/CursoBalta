@@ -51,3 +51,12 @@
 - Armazena cadeias de caracteres
 - "Umas lista de **char**"
 - **string**(espaço de mem[oria depende do tamanho da string): entre asás duplas(")
+
+## Valores Padrões
+- Todo tipo buit-in já possui um valor padrão
+-  Se nenhum valor for informado, seu valor padrao será ultilizado
+  - int = 0
+  - float = 0
+  - bool = false
+  - char = '\0'
+  - string = ""
