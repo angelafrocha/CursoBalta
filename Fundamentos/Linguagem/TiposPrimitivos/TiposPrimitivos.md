@@ -26,4 +26,28 @@
     - **short/ushort**
     - **int/uint**
     - **long/ulong**
-  
+
+![imgPrimitivos](https://raw.githubusercontent.com/angelafrocha/CursoBalta/master/Fundamentos/Linguagem/TiposPrimitivos/imagens/tipos%20inteiros.png)
+
+### Números reais
+- **Float** (Notação F)
+- **Double** (mais recomendado)
+- **Decimal** (Notação M)
+- Assimilção negativa e positica por padrão, dispensando o uso de ***signed/usigned** em seus tipos
+
+![](https://github.com/angelafrocha/CursoBalta/blob/master/Fundamentos/Linguagem/TiposPrimitivos/imagens/fm.png?raw=true)
+
+![](https://github.com/angelafrocha/CursoBalta/blob/master/Fundamentos/Linguagem/TiposPrimitivos/imagens/reais.png?raw=true)
+
+### Boolean (Booleano)
+- **true**/**false**
+- **bool**(8-bit)
+
+### Char
+- Apenas um caractere (Unicode)
+- **char**(16-bit): entre aspas simples (')
+
+### String
+- Armazena cadeias de caracteres
+- "Umas lista de **char**"
+- **string**(espaço de mem[oria depende do tamanho da string): entre asás duplas(")
