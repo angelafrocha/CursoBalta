@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rRLN8izWkgY/QhLh4xC01oqTSUUPHI2YO2QYwgObPAZNr25SvzHcVY/QvfzYOpp1CMiUyyLZEPX0vaaYXEkZ9A==",
+  "dgSpecHash": "mIx+90rIcoxWuu6yJ+Q+yzpRh9BZw2qXyWWvtnNveWQjDJmcQCszH4Y2/V6SnQtZwvG3Q04o2yi71MQAJmW1wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\famil\\OneDrive\\Documentos\\GitHub\\Balta\\CursoBalta\\Fundamentos\\CodFundamentos01\\Fundamentos01\\MeuApp\\MeuApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\angelar\\Documents\\github\\Balta\\CursoBalta\\Fundamentos\\CodFundamentos01\\Fundamentos01\\MeuApp\\MeuApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angelar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\angelar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\angelar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\angelar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

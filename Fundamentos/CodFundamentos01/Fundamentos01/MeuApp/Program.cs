@@ -48,13 +48,36 @@ namespace MeuApp
             //    default: Console.WriteLine("4"); break;
             //}
 
-            bool? valor = null;
-            switch(valor)
+            //bool? valor = null;
+            //switch(valor)
+            //{
+            //    case true:  Console.WriteLine(" é true, mano"); break;
+            //    case false: Console.WriteLine("caô"); break;
+            //    case null: Console.WriteLine("null"); break;
+            //}
+
+            //for (int i = 0; i <= 5; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //var valor = 0;
+            //while(valor <=5) 
+            //{ 
+
+            //    Console.WriteLine(valor);
+            //    valor++;
+            //}
+
+            int valor = 0;
+            do
             {
-                case true:  Console.WriteLine(" é true, mano"); break;
-                case false: Console.WriteLine("caô"); break;
-                case null: Console.WriteLine("null"); break;
-            }
+                Console.WriteLine(valor);
+                valor++;
+            }while (valor < 5);
+
+
+
 
 
         }
